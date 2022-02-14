@@ -1,0 +1,11 @@
+{
+    "id": 12,
+    "name": "slime_12",
+    "entity_type": "slime",
+    "options": {
+        "size": 20
+    },
+    "base_health": 200.0,
+    "base_attack_damage": 2.0,
+    "base_movement_speed": 0.1
+}

@@ -1,0 +1,8 @@
+{
+    "id": 20,
+    "name": "mite",
+    "entity_type": "silverfish",
+    "base_health": 8.0,
+    "base_attack_damage": 1.0,
+    "base_movement_speed": 0.25
+}

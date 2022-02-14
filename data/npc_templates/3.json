@@ -1,0 +1,7 @@
+{
+    "id": 3,
+    "name": "creeper",
+    "entity_type": "creeper",
+    "base_health": 20.0,
+    "base_movement_speed": 0.25
+}

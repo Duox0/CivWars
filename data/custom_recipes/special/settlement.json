@@ -1,0 +1,21 @@
+{
+    "type": "shaped",
+    "result": {
+        "type": "civcraft_item",
+        "count": 1,
+        "item_id": 11
+    },
+    "ingredients": [
+        {
+            "type": "civcraft_item",
+            "count": 1,
+            "item_id": 20
+        },
+        {
+            "type": "minecraft_item",
+            "count": 1,
+            "item_id": 56
+        }
+    ],
+    "shape": ["000", "010", "000"]
+}

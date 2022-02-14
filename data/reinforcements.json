@@ -1,0 +1,431 @@
+[
+    {
+        "block_id": 0,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 1,
+        "reinforcement": 2
+    },
+    {
+        "block_id": 6,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 8,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 9,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 10,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 11,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 18,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 27,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 28,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 30,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 31,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 32,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 37,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 38,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 39,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 40,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 42,
+        "reinforcement": 3
+    },
+    {
+        "block_id": 43,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 44,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 46,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 50,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 51,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 55,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 59,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 63,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 64,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 65,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 66,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 68,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 69,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 70,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 71,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 72,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 75,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 76,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 78,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 81,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 83,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 85,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 92,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 93,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 94,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 96,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 97,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 98,
+        "reinforcement": 4
+    },
+    {
+        "block_id": 101,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 102,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 104,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 105,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 106,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 107,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 111,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 113,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 115,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 116,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 117,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 118,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 126,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 127,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 131,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 139,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 140,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 141,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 142,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 143,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 144,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 145,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 146,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 147,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 148,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 149,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 150,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 151,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 154,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 158,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 160,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 161,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 167,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 170,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 171,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 175,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 176,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 177,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 178,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 182,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 183,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 184,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 185,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 186,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 187,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 188,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 189,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 190,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 191,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 192,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 193,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 194,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 195,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 196,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 197,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 198,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 199,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 200,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 204,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 205,
+        "reinforcement": 0
+    },
+    {
+        "block_id": 207,
+        "reinforcement": 0
+    }
+
+]

@@ -1,0 +1,14 @@
+{
+    "type": "faction_flag",
+    "id": 10,
+    "name": "faction_flag",
+    "item_id": 280,
+    "stats": [
+        {
+            "function": "mul",
+            "stat": "movement_speed",
+            "priority": 20,
+            "value": 1.25
+        }
+    ]
+}

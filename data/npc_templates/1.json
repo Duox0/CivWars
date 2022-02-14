@@ -1,0 +1,9 @@
+{
+    "id": 1,
+    "name": "zombie",
+    "entity_type": "zombie",
+    "base_health": 20.0,
+    "base_defense": 2.0,
+    "base_attack_damage": 3.0,
+    "base_movement_speed": 0.23
+}

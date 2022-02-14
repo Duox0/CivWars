@@ -1,0 +1,7 @@
+{
+    "id": 2,
+    "name": "skeleton",
+    "entity_type": "skeleton",
+    "base_health": 20.0,
+    "base_movement_speed": 0.25
+}

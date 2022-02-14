@@ -1,0 +1,14 @@
+{
+    "type": "settlement",
+    "id": 11,
+    "name": "settlement",
+    "item_id": 280,
+    "stats": [
+        {
+            "function": "mul",
+            "stat": "movement_speed",
+            "priority": 20,
+            "value": 1.25
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "type": "test_sword",
+    "id": 100,
+    "name": "test_sword",
+    "item_id": 272,
+    "attack_damage": 1.0,
+    "stats": [
+        {
+            "function": "add",
+            "stat": "attack_damage",
+            "priority": 10,
+            "value": 10.0
+        }
+    ]
+}

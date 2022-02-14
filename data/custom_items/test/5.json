@@ -1,0 +1,21 @@
+{
+    "type": "shield",
+    "id": 5,
+    "name": "test_shield",
+    "item_id": 442,
+    "defense": 5.0,
+    "stats": [
+        {
+            "function": "add",
+            "stat": "defense",
+            "priority": 10,
+            "value": 1.0
+        },
+        {
+            "function": "add",
+            "stat": "movement_speed",
+            "priority": 10,
+            "value": 0.25
+        }
+    ]
+}

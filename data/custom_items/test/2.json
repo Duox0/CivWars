@@ -1,0 +1,21 @@
+{
+    "type": "chestplate",
+    "id": 2,
+    "name": "test_chestplate",
+    "item_id": 307,
+    "defense": 5.0,
+    "stats": [
+        {
+            "function": "add",
+            "stat": "defense",
+            "priority": 10,
+            "value": 4.0
+        },
+        {
+            "function": "add",
+            "stat": "movement_speed",
+            "priority": 10,
+            "value": 0.25
+        }
+    ]
+}
